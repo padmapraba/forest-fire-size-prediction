@@ -1,0 +1,101 @@
+NWCG_REPORTING_UNIT_NAME,FIRE_YEAR,DISCOVERY_DATE,DISCOVERY_DOY,DISCOVERY_TIME,NWCG_CAUSE_CLASSIFICATION,NWCG_GENERAL_CAUSE,CONT_DATE,CONT_DOY,CONT_TIME,FIRE_SIZE,FIRE_SIZE_CLASS,LATITUDE,LONGITUDE,OWNER_DESCR,STATE
+Pennsylvania Division of Forest Fire Protection,2003.0,3/25/2003 0:00,84.0,1323.0,Human,Debris and open burning,3/25/2003 0:00,84.0,1323.0,2.0,B,40.81277778,-75.6325,MISSING/NOT SPECIFIED,PA
+Angeles National Forest,1995.0,8/18/1995 0:00,230.0,1340.0,Human,Equipment and vehicle use,8/18/1995 0:00,230.0,1430.0,1.0,B,34.46,-118.19333329999999,MISSING/NOT SPECIFIED,CA
+Tonto National Forest,2006.0,6/29/2006 0:00,180.0,1515.0,Natural,Natural,6/29/2006 0:00,180.0,2300.0,13.5,C,33.55972222,-110.97916670000001,USFS,AZ
+Utah Division Forestry Fire State Lands,2001.0,5/3/2001 0:00,123.0,615.0,Human,Debris and open burning,5/3/2001 0:00,123.0,815.0,0.5,B,40.514759999999995,-111.38555,MUNICIPAL/LOCAL,UT
+Georgia Forestry Commission,2011.0,1/12/2011 0:00,12.0,1147.0,Human,Misuse of fire by a minor,1/12/2011 0:00,12.0,1228.0,0.5,B,31.23799694,-81.78493511,PRIVATE,GA
+Arizona Strip Field Office,2010.0,7/19/2010 0:00,200.0,1456.0,Natural,Natural,7/19/2010 0:00,200.0,1900.0,0.1,A,36.6177,-112.762,BLM,AZ
+San Joaquin River National Wildlife Refuge,2013.0,2/3/2013 0:00,34.0,900.0,Human,Recreation and ceremony,2/3/2013 0:00,34.0,930.0,0.1,A,37.62416667,-121.1875,FWS,CA
+Alabama Forestry Commission,2016.0,7/1/2016 0:00,183.0,1322.0,Human,Debris and open burning,7/1/2016 0:00,183.0,1406.0,2.0,B,34.381,-86.103,MISSING/NOT SPECIFIED,AL
+Minnesota Department of Natural Resources,2018.0,5/6/2018 0:00,126.0,1956.0,Human,Debris and open burning,5/6/2018 0:00,126.0,2124.0,5.0,B,47.31119972,-93.57683424,PRIVATE,MN
+Six Rivers National Forest,1998.0,9/4/1998 0:00,247.0,1330.0,Human,Recreation and ceremony,9/4/1998 0:00,247.0,1350.0,0.1,A,41.69,-123.90666670000002,USFS,CA
+Fire Department of New York,2012.0,11/20/2012 0:00,325.0,1310.0,Human,Missing data/not specified/undetermined,11/20/2012 0:00,325.0,1414.0,0.1,A,42.028,-75.6599,MISSING/NOT SPECIFIED,NY
+Georgia Forestry Commission,2018.0,1/26/2018 0:00,26.0,1702.0,Human,Debris and open burning,1/26/2018 0:00,26.0,1754.0,2.2,B,31.20534167,-81.98937778,PRIVATE,GA
+National Forests in Mississippi,1995.0,12/14/1995 0:00,348.0,1441.0,Human,Arson/incendiarism,12/14/1995 0:00,348.0,1543.0,1.0,B,30.635,-89.00333333,USFS,MS
+California Desert District,2001.0,12/24/2001 0:00,358.0,1310.0,Human,Smoking,12/24/2001 0:00,358.0,1318.0,0.1,A,33.610110999999996,-114.77095,BLM,CA
+Farmington Field Office,2014.0,7/13/2014 0:00,194.0,1211.0,Natural,Natural,7/13/2014 0:00,194.0,1255.0,0.1,A,36.995,-107.5928,BLM,NM
+Nevada-Yuba-Placer Unit,2004.0,7/17/2004 0:00,199.0,1305.0,Human,Equipment and vehicle use,7/17/2004 0:00,199.0,1330.0,1.0,B,38.97805555,-121.10805559999999,MISSING/NOT SPECIFIED,CA
+Livingston Area,2011.0,4/18/2011 0:00,108.0,1458.0,Human,Arson/incendiarism,4/18/2011 0:00,108.0,2024.0,130.0,D,30.59216667,-94.22833333,STATE OR PRIVATE,TX
+Georgia Forestry Commission,2002.0,3/7/2002 0:00,66.0,1325.0,Human,Arson/incendiarism,3/7/2002 0:00,66.0,1325.0,0.74,B,33.4694,-82.5222,PRIVATE,GA
+Elko District Office,2000.0,8/5/2000 0:00,218.0,829.0,Natural,Natural,8/10/2000 0:00,223.0,2000.0,0.1,A,40.8021,-116.9393,PRIVATE,NV
+Alabama Forestry Commission,2006.0,10/3/2006 0:00,276.0,1530.0,Human,Missing data/not specified/undetermined,10/3/2006 0:00,276.0,2000.0,27.0,C,32.550594,-87.8827,MISSING/NOT SPECIFIED,AL
+National Forests in Florida,1996.0,3/6/1996 0:00,66.0,1743.0,Human,Arson/incendiarism,3/6/1996 0:00,66.0,1835.0,0.3,B,29.31,-81.72666667,USFS,FL
+Georgia Forestry Commission,2001.0,6/26/2001 0:00,177.0,1721.0,Human,Recreation and ceremony,6/26/2001 0:00,177.0,1721.0,0.96,B,32.2525,-82.7616,PRIVATE,GA
+Mississippi Forestry Commission,1996.0,4/9/1996 0:00,100.0,1315.0,Human,Arson/incendiarism,4/9/1996 0:00,100.0,1522.0,35.0,C,31.25322412,-89.51710870000001,MISSING/NOT SPECIFIED,MS
+Nez Perce - Clearwater National Forests,1998.0,8/20/1998 0:00,232.0,1535.0,Natural,Natural,8/21/1998 0:00,233.0,1530.0,0.1,A,46.53833333,-114.65333329999999,USFS,ID
+Helena - Lewis and Clark National Forest,2001.0,6/27/2001 0:00,178.0,1531.0,Natural,Natural,6/28/2001 0:00,179.0,930.0,0.2,A,46.94166667,-112.45333329999998,USFS,MT
+Shasta-Trinity National Forest,2015.0,7/21/2015 0:00,202.0,1900.0,Natural,Natural,7/22/2015 0:00,203.0,1200.0,0.25,A,41.23611111,-122.32166670000001,PRIVATE,CA
+Carson National Forest,2003.0,6/2/2003 0:00,153.0,1740.0,Natural,Natural,6/2/2003 0:00,153.0,1750.0,20.0,C,36.05805556,-105.74083329999999,USFS,NM
+Georgia Forestry Commission,2015.0,7/24/2015 0:00,205.0,1500.0,Natural,Natural,7/24/2015 0:00,205.0,1624.0,4.6,B,33.26281111,-82.55458333,PRIVATE,GA
+South Carolina Forestry Commission,1994.0,3/18/1994 0:00,77.0,,Missing data/not specified/undetermined,Missing data/not specified/undetermined,3/18/1994 0:00,77.0,1153.0,6.0,B,32.925,-80.69583333,MISSING/NOT SPECIFIED,SC
+"Northwest District, Craig",2000.0,8/26/2000 0:00,239.0,1447.0,Natural,Natural,8/26/2000 0:00,239.0,1510.0,0.1,A,39.993,-108.3893,BLM,CO
+Georgia Forestry Commission,2001.0,1/23/2001 0:00,23.0,1215.0,Human,Debris and open burning,1/23/2001 0:00,23.0,1215.0,4.47,B,34.1555,-83.8065,PRIVATE,GA
+Georgia Forestry Commission,2011.0,6/15/2011 0:00,166.0,1342.0,Human,Debris and open burning,6/15/2011 0:00,166.0,1823.0,10.2,C,32.49086668,-82.7682291,PRIVATE,GA
+Tennessee Division of Forestry,2005.0,9/17/2005 0:00,260.0,1800.0,Human,Equipment and vehicle use,9/17/2005 0:00,260.0,2030.0,0.2,A,36.3366667,-82.14,PRIVATE,TN
+New Jersey Forest Fire Service,2011.0,2/19/2011 0:00,50.0,758.0,Human,Smoking,2/19/2011 0:00,50.0,1500.0,0.25,A,40.2347,-74.3736,PRIVATE,NJ
+Central California District,2000.0,9/4/2000 0:00,248.0,1600.0,Human,Equipment and vehicle use,9/4/2000 0:00,248.0,1615.0,2.0,B,37.8363,-120.4785,BLM,CA
+Red Lake Agency,2016.0,3/21/2016 0:00,81.0,2130.0,Human,Arson/incendiarism,3/21/2016 0:00,81.0,2130.0,0.1,A,47.8761,-94.9122,BIA,MN
+Georgia Forestry Commission,2001.0,11/21/2001 0:00,325.0,1527.0,Human,Debris and open burning,11/21/2001 0:00,325.0,1527.0,0.45,B,33.11,-84.3414,PRIVATE,GA
+North Carolina Forest Service,2009.0,9/3/2009 0:00,246.0,1421.0,Human,Equipment and vehicle use,9/3/2009 0:00,246.0,1440.0,0.5,B,34.91667,-79.9,STATE,NC
+Fire Department of New York,2008.0,4/20/2008 0:00,111.0,1557.0,Human,Missing data/not specified/undetermined,4/20/2008 0:00,111.0,1557.0,1.23,B,42.93459703,-73.29950491,MISSING/NOT SPECIFIED,NY
+Roswell Field Office,2018.0,4/16/2018 0:00,106.0,1258.0,Human,Missing data/not specified/undetermined,4/19/2018 0:00,109.0,1700.0,16.3,C,33.651939,-105.1995,PRIVATE,NM
+Mississippi Forestry Commission,1996.0,3/22/1996 0:00,82.0,1611.0,Human,Debris and open burning,3/22/1996 0:00,82.0,1735.0,9.0,B,34.72249123,-89.02838154,MISSING/NOT SPECIFIED,MS
+Georgia Forestry Commission,1995.0,5/15/1995 0:00,135.0,2000.0,Human,Debris and open burning,5/15/1995 0:00,135.0,2200.0,20.75,C,31.6181,-82.0561,PRIVATE,GA
+Fire Department of New York,2009.0,11/7/2009 0:00,311.0,2128.0,Human,Missing data/not specified/undetermined,11/7/2009 0:00,311.0,2128.0,0.1,A,43.1090774,-77.47721967,MISSING/NOT SPECIFIED,NY
+Central California District,1994.0,5/15/1994 0:00,135.0,2024.0,Human,Power generation/transmission/distribution,5/15/1994 0:00,135.0,2330.0,2.0,B,35.1,-119.4843,PRIVATE,CA
+Oklahoma Division of Forestry,2002.0,12/2/2002 0:00,336.0,810.0,Human,Arson/incendiarism,12/2/2002 0:00,336.0,810.0,2.0,B,36.31288335,-94.87220001,PRIVATE,OK
+Ely District Office,1998.0,7/21/1998 0:00,202.0,1558.0,Natural,Natural,7/21/1998 0:00,202.0,1800.0,0.1,A,37.4166,-114.2508,BLM,NV
+Tonto National Forest,2007.0,9/5/2007 0:00,248.0,2000.0,Human,Recreation and ceremony,9/5/2007 0:00,248.0,2100.0,0.1,A,33.24583333,-111.09666670000001,USFS,AZ
+South Carolina Forestry Commission,2010.0,4/24/2010 0:00,114.0,208.0,Human,Equipment and vehicle use,4/24/2010 0:00,114.0,816.0,8.0,B,33.826359000000004,-80.636429,PRIVATE,SC
+Georgia Forestry Commission,2000.0,11/8/2000 0:00,313.0,1213.0,Human,Arson/incendiarism,11/8/2000 0:00,313.0,1213.0,0.02,A,31.8925,-82.6996,PRIVATE,GA
+Oklahoma Division of Forestry,1996.0,2/14/1996 0:00,45.0,1610.0,Missing data/not specified/undetermined,Missing data/not specified/undetermined,2/14/1996 0:00,45.0,1630.0,3.0,B,34.76120033,-95.06829828,MISSING/NOT SPECIFIED,OK
+Pine Ridge Agency,1996.0,7/26/1996 0:00,208.0,1630.0,Human,Debris and open burning,7/26/1996 0:00,208.0,1705.0,1.0,B,43.1155,-102.5893,BIA,SD
+Wisconsin Department of Natural Resources,2016.0,5/22/2016 0:00,143.0,1448.0,Human,Equipment and vehicle use,5/22/2016 0:00,143.0,1641.0,0.49,B,46.18173,-90.47622,PRIVATE,WI
+Klamath National Forest,2009.0,7/29/2009 0:00,210.0,2000.0,Natural,Natural,7/30/2009 0:00,211.0,1115.0,0.1,A,41.91222222,-123.0986111,USFS,CA
+Georgia Forestry Commission,1996.0,6/5/1996 0:00,157.0,1355.0,Human,Debris and open burning,6/5/1996 0:00,157.0,1415.0,0.02,A,31.1552,-81.9379,PRIVATE,GA
+Chattahoochee-Oconee National Forest,2004.0,3/7/2004 0:00,67.0,1330.0,Human,Debris and open burning,3/7/2004 0:00,67.0,1950.0,16.5,C,34.55916667,-85.06305556,STATE OR PRIVATE,GA
+Cherokee Nation Tribe,2010.0,11/17/2010 0:00,321.0,1630.0,Human,Arson/incendiarism,11/17/2010 0:00,321.0,1830.0,4.0,B,35.7089,-94.5303,PRIVATE,OK
+Arizona Department of Forestry and Fire Management - State Office,2010.0,4/10/2010 0:00,100.0,1908.0,Missing data/not specified/undetermined,Missing data/not specified/undetermined,4/10/2010 0:00,100.0,2300.0,0.01,A,33.5878,-111.8944,MISSING/NOT SPECIFIED,AZ
+Helena - Lewis and Clark National Forest,1994.0,6/18/1994 0:00,169.0,1100.0,Natural,Natural,6/18/1994 0:00,169.0,1400.0,0.4,B,46.67,-111.73666670000001,USFS,MT
+Florida Forest Service,2018.0,2/22/2018 0:00,53.0,1422.0,Human,Debris and open burning,2/22/2018 0:00,53.0,1556.0,10.0,C,30.614,-85.4483,MISSING/NOT SPECIFIED,FL
+Attwater Prarie Chicken National Wildlife Refuge,1992.0,9/17/1992 0:00,261.0,1615.0,Human,Debris and open burning,9/17/1992 0:00,261.0,1700.0,2.5,B,29.668870000000002,-96.26481,FWS,TX
+Central California District,2003.0,6/26/2003 0:00,177.0,2118.0,Human,Power generation/transmission/distribution,6/26/2003 0:00,177.0,2141.0,0.1,A,36.569739,-121.716889,PRIVATE,CA
+Mississippi Forestry Commission,1999.0,6/7/1999 0:00,158.0,1915.0,Human,Debris and open burning,6/7/1999 0:00,158.0,2000.0,1.0,B,31.80082821,-90.41721922,MISSING/NOT SPECIFIED,MS
+Lake Tahoe Basin Management Unit,1998.0,8/14/1998 0:00,226.0,1900.0,Natural,Natural,8/15/1998 0:00,227.0,600.0,0.1,A,38.81166667,-119.945,USFS,CA
+Oklahoma Division of Forestry,2002.0,3/14/2002 0:00,73.0,1550.0,Human,Arson/incendiarism,3/15/2002 0:00,74.0,1800.0,20.0,C,36.29,-94.8581,MISSING/NOT SPECIFIED,OK
+West Virginia Division of Forestry,1993.0,2/3/1993 0:00,34.0,1430.0,Human,Other causes,2/3/1993 0:00,34.0,1430.0,19.0,C,38.1820979,-81.91833043,PRIVATE,WV
+Minnesota Department of Natural Resources,2011.0,10/21/2011 0:00,294.0,1520.0,Human,Debris and open burning,10/21/2011 0:00,294.0,1645.0,50.0,C,48.28360511,-95.52731716,PRIVATE,MN
+Kansas Forest Service,2015.0,2/25/2015 0:00,56.0,1637.0,Human,Smoking,2/25/2015 0:00,56.0,1657.0,0.25,A,39.11,-95.11,MISSING/NOT SPECIFIED,KS
+Warm Springs Agency,2008.0,8/18/2008 0:00,231.0,1032.0,Natural,Natural,9/12/2008 0:00,256.0,1400.0,68.0,C,44.7436,-121.7764,BIA,OR
+South Carolina Forestry Commission,1993.0,4/27/1993 0:00,117.0,,Missing data/not specified/undetermined,Missing data/not specified/undetermined,4/27/1993 0:00,117.0,1204.0,0.1,A,32.7375,-81.22916667,MISSING/NOT SPECIFIED,SC
+Lolo National Forest,1994.0,9/16/1994 0:00,259.0,1145.0,Natural,Natural,9/16/1994 0:00,259.0,1730.0,0.1,A,46.96166667,-114.705,STATE OR PRIVATE,MT
+Fire Department of New York,2004.0,11/15/2004 0:00,320.0,1953.0,Human,Missing data/not specified/undetermined,11/15/2004 0:00,320.0,1953.0,0.1,A,42.83697611,-73.9128485,MISSING/NOT SPECIFIED,NY
+Fire Department of New York,2016.0,7/18/2016 0:00,200.0,1427.0,Human,Recreation and ceremony,7/18/2016 0:00,200.0,1450.0,1.3,B,42.1073,-75.9597,MISSING/NOT SPECIFIED,NY
+Georgia Forestry Commission,2011.0,1/22/2011 0:00,22.0,1400.0,Human,Debris and open burning,1/22/2011 0:00,22.0,1420.0,0.4,B,31.69484673,-84.59594348,STATE,GA
+Georgia Forestry Commission,2014.0,12/13/2014 0:00,347.0,1333.0,Human,Debris and open burning,12/18/2014 0:00,352.0,1700.0,1.0,B,31.04693889,-82.71037222,MISSING/NOT SPECIFIED,GA
+Illinois Division of Forestry Resources,2013.0,4/6/2013 0:00,96.0,1101.0,Human,Debris and open burning,4/6/2013 0:00,96.0,1249.0,19.0,C,40.747323,-90.6939297,MISSING/NOT SPECIFIED,IL
+Willamette National Forest,2000.0,9/11/2000 0:00,255.0,1900.0,Human,Recreation and ceremony,9/12/2000 0:00,256.0,1700.0,0.1,A,43.78694444,-122.08,USFS,OR
+South Carolina Forestry Commission,1992.0,7/19/1992 0:00,201.0,,Missing data/not specified/undetermined,Missing data/not specified/undetermined,7/19/1992 0:00,201.0,1155.0,0.1,A,34.37083333,-79.4625,MISSING/NOT SPECIFIED,SC
+Black Hills National Forest,2006.0,9/11/2006 0:00,254.0,1500.0,Natural,Natural,9/11/2006 0:00,254.0,1630.0,0.1,A,43.72916667,-103.5130556,USFS,SD
+Maine Forest Service,2003.0,6/4/2003 0:00,155.0,1026.0,Human,Debris and open burning,6/4/2003 0:00,155.0,1045.0,3.0,B,44.10011001,-70.45882998,MISSING/NOT SPECIFIED,ME
+Fire Department of New York,2008.0,6/8/2008 0:00,160.0,1706.0,Human,Arson/incendiarism,6/8/2008 0:00,160.0,1706.0,0.1,A,43.24298352,-78.20697501,MISSING/NOT SPECIFIED,NY
+Tennessee Division of Forestry,2008.0,7/19/2008 0:00,201.0,1305.0,Human,Recreation and ceremony,7/19/2008 0:00,201.0,1500.0,2.0,B,35.559020000000004,-84.91865,PRIVATE,TN
+Cherokee National Forest,1997.0,4/11/1997 0:00,101.0,2000.0,Human,Recreation and ceremony,4/11/1997 0:00,101.0,2045.0,0.2,A,36.01833333,-82.75333333,USFS,TN
+Oklahoma Division of Forestry,2003.0,10/31/2003 0:00,304.0,1815.0,Human,Arson/incendiarism,10/31/2003 0:00,304.0,1815.0,30.0,C,36.14566666,-94.59950002,PRIVATE,OK
+Florida Forest Service,2017.0,5/2/2017 0:00,122.0,1615.0,Natural,Natural,5/2/2017 0:00,122.0,1806.0,3.6,B,29.0387,-81.4609,UNDEFINED FEDERAL,FL
+Colville National Forest,2010.0,8/11/2010 0:00,223.0,1541.0,Natural,Natural,8/11/2010 0:00,223.0,1745.0,0.1,A,48.726388899999996,-117.598056,USFS,WA
+"Medicine Bow-Routt National Forests, Thunder Basin National Grassland",1995.0,9/12/1995 0:00,255.0,1100.0,Natural,Natural,9/12/1995 0:00,255.0,1200.0,0.1,A,41.35333333,-106.27166670000001,USFS,WY
+Arizona Department of Forestry and Fire Management - State Office,1993.0,3/6/1993 0:00,65.0,1014.0,Human,Smoking,3/6/1993 0:00,65.0,1233.0,0.5,B,31.97260171,-110.4445534,MISSING/NOT SPECIFIED,AZ
+Fire Department of New York,2005.0,4/16/2005 0:00,106.0,2006.0,Human,Missing data/not specified/undetermined,4/16/2005 0:00,106.0,2006.0,0.46,B,41.56262482,-74.19332144,MISSING/NOT SPECIFIED,NY
+Washington State Fire Marshal's Office,2011.0,8/6/2011 0:00,218.0,845.0,Human,Other causes,8/6/2011 0:00,218.0,1115.0,0.11,A,48.13077,-117.80955,PRIVATE,WA
+Kentucky Division of Forestry,2010.0,3/30/2010 0:00,89.0,2000.0,Human,Debris and open burning,3/30/2010 0:00,89.0,2000.0,2.0,B,36.63187,-84.04408000000001,MISSING/NOT SPECIFIED,KY
+Georgia Forestry Commission,2000.0,10/17/2000 0:00,291.0,1402.0,Human,Debris and open burning,10/17/2000 0:00,291.0,1402.0,0.23,A,32.0988,-84.7623,PRIVATE,GA
+Minnesota Department of Natural Resources,2017.0,10/19/2017 0:00,292.0,2035.0,Human,Arson/incendiarism,10/19/2017 0:00,292.0,2108.0,0.1,A,48.87460122,-96.66798589,MISSING/NOT SPECIFIED,MN
+Ashley National Forest,2006.0,6/28/2006 0:00,179.0,1030.0,Natural,Natural,7/1/2006 0:00,182.0,2000.0,71.5,C,40.84833333,-109.79333329999999,USFS,UT
+Mississippi Forestry Commission,2014.0,3/26/2014 0:00,85.0,1625.0,Human,Debris and open burning,3/26/2014 0:00,85.0,2011.0,30.0,C,31.598603000000004,-90.61357155,PRIVATE,MS
+Wisconsin Department of Natural Resources,1995.0,7/10/1995 0:00,191.0,1330.0,Human,Smoking,7/10/1995 0:00,191.0,1342.0,0.05,A,46.8227836,-90.8389886,MISSING/NOT SPECIFIED,WI
+New Mexico State Forestry Division,2009.0,8/14/2009 0:00,226.0,1600.0,Natural,Natural,8/14/2009 0:00,226.0,1600.0,53.1,C,33.7884,-103.0931,PRIVATE,NM
+Chugach National Forest,1996.0,5/5/1996 0:00,126.0,1600.0,Human,Recreation and ceremony,5/7/1996 0:00,128.0,1600.0,50.0,C,60.505,-145.3116667,STATE OR PRIVATE,AK
+Fire Department of New York,2006.0,4/18/2006 0:00,108.0,1513.0,Human,Missing data/not specified/undetermined,4/18/2006 0:00,108.0,1513.0,0.64,B,42.11020186,-76.07427019,MISSING/NOT SPECIFIED,NY
+Florida Forest Service,2004.0,2/19/2004 0:00,50.0,1200.0,Human,Debris and open burning,2/19/2004 0:00,50.0,1659.0,10.0,C,26.92166998,-81.42416002,PRIVATE,FL
+"Northwest District, Grand Junction",2008.0,7/23/2008 0:00,205.0,2002.0,Missing data/not specified/undetermined,Missing data/not specified/undetermined,7/23/2008 0:00,205.0,2200.0,0.1,A,39.3603,-108.3708,BLM,CO
